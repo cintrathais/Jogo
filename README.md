@@ -1,5 +1,4 @@
 <h1 align="center"> Mario Jump </h1>
 
 
-
-![Mario](https://user-images.githubusercontent.com/87918432/172230682-88d26bc3-9de4-4ff1-9a0a-6f47a5ea6e99.png)
+![Capa Mario Jump](https://user-images.githubusercontent.com/87918432/172231841-b4b6bf85-dbe3-47de-b4a5-671b71545e8a.png)
