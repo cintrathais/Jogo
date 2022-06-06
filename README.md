@@ -1,2 +1,5 @@
 <h1 align="center"> Mario Jump </h1>
-![imagem do mario jump ](https://user-images.githubusercontent.com/87918432/172230173-7b1e5d2c-2cf1-4363-9d3f-a56820e04c09.png)
+
+
+
+![Mario](https://user-images.githubusercontent.com/87918432/172230682-88d26bc3-9de4-4ff1-9a0a-6f47a5ea6e99.png)
